@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=forwardStr
+comment0.target=boolean\ palindromeCheck(java.lang.String)
+comment0.text=\n\ Complete\ this\ method.\n\ Remember\ Capitalization,\ puctuation\ or\ spaces\ are\ not\ a\ consideration\ for\ palindrome\ status.\n\ \n\ @param\ \ Accepts\ a\ string\ for\ analysis\n\ @return\ \ \ \ \ true\ if\ the\ String\ is\ a\ palindrome,\ otherwise\ return\ false\n
+numComments=1

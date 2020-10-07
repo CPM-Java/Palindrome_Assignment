@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=Drawkcab(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Drawkcab\n\ \n\ @param\ \ str\ \ \ saved\ as\ an\ instance\ String\n
+comment1.params=str
+comment1.target=void\ setWord(java.lang.String)
+comment1.text=\n\ A\ mutator\ method\ for\ the\ instance\ String\n\ \n\ @param\ \ str\ \ \ set\ the\ instance\ String\ to\ str\n
+comment2.params=
+comment2.target=void\ makeBackward()
+comment2.text=\n\ Reverse\ the\ order\ of\ the\ instance\ String\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ toString\n\ \n\ @return\ \ \ \ \ the\ instance\ String\ \n
+numComments=4
